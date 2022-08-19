@@ -1,0 +1,11 @@
+{
+  "name": "full-stack",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "examples:basic": "ts-node ./examples/basic.ts",
+    "examples:custom": "ts-node ./examples/custom.ts",
+    "examples:full-featured": "ts-node ./examples/full-featured.ts",
+    "tests": "ts-node tests.ts"
+  }
+}
